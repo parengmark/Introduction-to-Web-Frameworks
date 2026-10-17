@@ -1,4 +1,4 @@
-# NTC PC15 - Python Programming 2 w/ Lab
+# Python Programming 2 w/ Lab
 ## Week 9: Introduction to Web Frameworks
 ### Your Turn: Web Foundation Setup Output
 
